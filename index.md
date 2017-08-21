@@ -4,11 +4,13 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="arif.jpg">
+<img class="profile-picture" src="arif.jpeg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hi! I am a PhD Student, working under Professor Guillaume Pierre with MYRIADS team of IRISA/ INRIA Rennes. My PhD goal is to optimize container deployment in distributed edge cloud infrastructures. The PhD registration is done in MATISE school of University of Rennes 1 in October 2016 and the thesis is expected to complete by September 2019. A part from doing research, I also play some role in teaching activities with ISTIC department of University of Rennes 1. 
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+
+
+
 
 ## Research Interest
 
